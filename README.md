@@ -1,5 +1,6 @@
  1### Hi there 👋
- 2
+ 2![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?tsinghua-lau=coderfix-lab&theme=dark&layout=compact)
+
  3🤓 I'm Lilian Lee 李琳, a Content Strategist | Senior Technical Writer.
  4
  5I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘 ([a Lv7 VIP at Dianping 大众点评](https://m.dianping.com/userprofile/121632876)).
