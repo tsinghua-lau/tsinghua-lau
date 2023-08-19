@@ -1,7 +1,7 @@
 ## <div align="center">Hi！ I‘m Tsinghua Lau!👋 </div>
 
 #### <div align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</div>
-
+#### <div align="center">Likes to play King of Glory (王者荣耀), with a comprehensive win rate of 60%.</div>
 <div align="center">
  <img alt="Static Badge" src="https://img.shields.io/badge/unocss-%2398c032?logo=unocss">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
