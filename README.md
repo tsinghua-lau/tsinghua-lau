@@ -1,7 +1,7 @@
 ## <div align="center">Hi！ I‘m Tsinghua Lau!👋 </div>
 
 #### <div align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</div>
-#### <div align="center">Likes to play Glory of Kings (王者荣耀), with a comprehensive win rate of 60%.</div>
+
 <div align="center">
  <img alt="Static Badge" src="https://img.shields.io/badge/unocss-%2398c032?logo=unocss">
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-#### 
+
 <div align="center">
 <a href="https://tsinghua-lau.github.io/forDocs/" target="_blank"> BLOG </a>
 <a href="https://blog.csdn.net/gentleman_hua" target="_blank"> CSDN </a>
@@ -27,10 +27,8 @@
 
 <br/>
 
-<div align="center">
-     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=tsinghua-lau&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
-     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsinghua-lau&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn&card_width=240" />
-</div >
+
+
 
 
 <br/>
